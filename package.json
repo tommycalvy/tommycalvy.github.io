@@ -9,7 +9,7 @@
     "author": "Tommy Calvy",
     "license": "ISC",
     "devDependencies": {
-        "browser-sync": "^2.7.11",
+        "browser-sync": "^2.24.7",
         "del": "^1.2.0",
         "gulp": "^3.9.1",
         "gulp-autoprefixer": "5.0.0",
@@ -25,6 +25,7 @@
     },
     "dependencies": {
         "chart.js": "^2.7.2",
-        "lodash": "^4.17.10"
+        "lodash": "^4.17.10",
+        "npm": "^6.4.1"
     }
 }

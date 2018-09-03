@@ -110,5 +110,9 @@ typings/
 *.sass.map
 *.scss.map
 
+# firebase json file
+um-tennis-club-firebase-adminsdk-aute5-60e65f25c8.json
+
+
 
 # End of https://www.gitignore.io/api/node,sass,macos
